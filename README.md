@@ -1,10 +1,11 @@
 <h1>Tenet Level Logging</h1>
-<b>This tutorial outlines the configuration </b>
+<b>This tutorial outlines the configuration of Azure Active Directory and auditlogs </b>
 
 <h2>Environments and Technologies Used</h2>
 
 - <b>Microsoft Azure</b> 
-- <b>Description</b>
+- <b>Azure Active Directory</b>
+- <b>Log Analytics Workspace</b>
 
 <h2>Operating Systems</h2>
 
