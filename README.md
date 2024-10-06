@@ -1,5 +1,6 @@
 <h1>Tenet Level Logging</h1>
-<b>This tutorial outlines the configuration of Azure Active Directory and auditlogs </b>
+
+- <b>This tutorial outlines the configuration of Azure Active Directory and auditlogs </b>
 
 <h2>Environments and Technologies Used</h2>
 
